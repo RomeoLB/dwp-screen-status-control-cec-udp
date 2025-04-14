@@ -2,6 +2,8 @@
 
 Follow the steps below to add this app to an existing BA Classic presentation.
 
+Unzip and use the package **BACL-Control-DWP-CEC-UDP.zip** for the below steps:
+
 ---
 
 
